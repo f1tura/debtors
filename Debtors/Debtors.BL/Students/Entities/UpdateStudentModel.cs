@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Debtors.BL.Students.Entities;
 
-public class UpdateUserModel
+public class UpdateStudentModel
 {
     
     public string? Name { get; set; }
