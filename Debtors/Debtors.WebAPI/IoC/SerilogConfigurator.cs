@@ -1,6 +1,6 @@
 ﻿using Serilog;
 
-namespace Debtors.WebAPI.IoC
+namespace Debtors.Service.IoC
 {
     /// <summary>
     /// Static class for serilog configuration

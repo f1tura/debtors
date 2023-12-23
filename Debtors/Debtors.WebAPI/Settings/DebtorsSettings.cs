@@ -1,4 +1,4 @@
-﻿namespace Debtors.WebAPI.Settings
+﻿namespace Debtors.Service.Settings
 {
     public class DebtorsSettings
     {

@@ -1,5 +1,5 @@
-using Debtors.WebAPI.IoC;
-using Debtors.WebAPI.Settings;
+using Debtors.Service.IoC;
+using Debtors.Service.Settings;
 
 var configuration = new ConfigurationBuilder()
 .AddJsonFile("appsettings.json", optional: false)

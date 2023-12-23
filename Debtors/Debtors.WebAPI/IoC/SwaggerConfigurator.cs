@@ -1,4 +1,4 @@
-﻿namespace Debtors.WebAPI.IoC
+﻿namespace Debtors.Service.IoC
 {
     /// <summary>
     /// Static class for Swagger configuration
